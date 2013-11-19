@@ -4,7 +4,7 @@
  * http://masonry.desandro.com
  * MIT License
  * by David DeSandro
- * 
+ *
  */
 
 ( function( window ) {
