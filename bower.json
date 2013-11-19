@@ -5,7 +5,7 @@
   "main": "masonry.js",
   "dependencies": {
     "get-size": "desandro/get-size#>=1.1.4 <2.0",
-    "outlayer": "git@github.com:kolach/outlayer"
+    "outlayer": "git://github.com/kolach/outlayer.git"
   },
   "devDependencies": {
     "doc-ready": "desandro/doc-ready",
